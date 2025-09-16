@@ -28,6 +28,8 @@ I'm a passionate developer with a natural curiosity for technology that started 
 ### 🌟 Background
 - **Native Spanish** speaker with **B2 English** proficiency
 - Self-taught developer with strong learning abilities
+- Strong foundation in **data structures and algorithms**
+- Strong foundation in **data structures and algorithms**
 - Natural leadership skills in group projects
 - Experience in automation and hardware projects
 
@@ -42,6 +44,7 @@ I'm a passionate developer with a natural curiosity for technology that started 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
@@ -86,15 +89,8 @@ I'm a passionate developer with a natural curiosity for technology that started 
 
 A comprehensive solution for restaurant operations with modern web technologies and intuitive user interface.
 
-**Frontend Stack:** 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend Stack:** 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+**Frontend:** React • TypeScript • Vite  
+**Backend:** TypeScript • PostgreSQL
 
 [🔗 Frontend](https://github.com/LeannGimenezz/sabroso-front) | [🔗 Backend](https://github.com/LeannGimenezz/sabroso-back)
 
@@ -104,24 +100,10 @@ A comprehensive solution for restaurant operations with modern web technologies 
 ### 🎸 Instruments
 **Musical Instruments Management System**
 
-Complete CRUD system for musical instrument inventory management with modern design and full functionality.
-
-**Frontend Stack:** 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-**Backend Stack:** 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-[🔗 Frontend](https://github.com/AgusMS7/instrumentos-frontend) | [🔗 Backend](https://github.com/AgusMS7/instrumentos-back-spring)
-
-</td>
-</tr>
-</table>
-
----
+**Frontend:** React • TypeScript • Vite  
+**Backend:** TypeScript • PostgreSQL
+**Frontend:** React • TypeScript  
+**Backend:** Spring Boot • Java • PostgreSQL
 
 ## 💡 Academic & Personal Projects
 
