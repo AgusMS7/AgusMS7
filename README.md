@@ -86,9 +86,14 @@ I'm a passionate developer with a natural curiosity for technology that started 
 
 A comprehensive solution for restaurant operations with modern web technologies and intuitive user interface.
 
-**Tech Stack:** 
+**Frontend Stack:** 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend Stack:** 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 [🔗 Frontend](https://github.com/LeannGimenezz/sabroso-front) | [🔗 Backend](https://github.com/LeannGimenezz/sabroso-back)
@@ -101,9 +106,13 @@ A comprehensive solution for restaurant operations with modern web technologies 
 
 Complete CRUD system for musical instrument inventory management with modern design and full functionality.
 
-**Tech Stack:** 
+**Frontend Stack:** 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+
+**Backend Stack:** 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
 [🔗 Frontend](https://github.com/AgusMS7/instrumentos-frontend) | [🔗 Backend](https://github.com/AgusMS7/instrumentos-back-spring)
