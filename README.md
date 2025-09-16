@@ -29,7 +29,6 @@ I'm a passionate developer with a natural curiosity for technology that started 
 - **Native Spanish** speaker with **B2 English** proficiency
 - Self-taught developer with strong learning abilities
 - Strong foundation in **data structures and algorithms**
-- Strong foundation in **data structures and algorithms**
 - Natural leadership skills in group projects
 - Experience in automation and hardware projects
 
@@ -49,9 +48,11 @@ I'm a passionate developer with a natural curiosity for technology that started 
 ### Frameworks & Libraries
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 ### Databases & Cloud
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
@@ -100,10 +101,18 @@ A comprehensive solution for restaurant operations with modern web technologies 
 ### 🎸 Instruments
 **Musical Instruments Management System**
 
-**Frontend:** React • TypeScript • Vite  
-**Backend:** TypeScript • PostgreSQL
+Complete CRUD system for musical instrument inventory management with modern design and full functionality.
+
 **Frontend:** React • TypeScript  
 **Backend:** Spring Boot • Java • PostgreSQL
+
+[🔗 Frontend](https://github.com/AgusMS7/instrumentos-frontend) | [🔗 Backend](https://github.com/AgusMS7/instrumentos-back-spring)
+
+</td>
+</tr>
+</table>
+
+---
 
 ## 💡 Academic & Personal Projects
 
