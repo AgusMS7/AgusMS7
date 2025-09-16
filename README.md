@@ -114,52 +114,55 @@ Complete CRUD system for musical instrument inventory management with modern des
 
 ---
 
-## 📊 GitHub Analytics
+## 💡 Academic & Personal Projects
+
+During my studies, I've developed numerous projects that showcase my learning journey and technical growth:
 
 <div align="center">
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=AgusMS7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgusMS7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</td>
-</tr>
-</table>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AgusMS7&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+**🔧 Automation Projects** • **📊 Excel Macros & VBA Solutions** • **🤖 Arduino Hardware Projects**  
+**💻 Console Applications** • **🗄️ Database Design Projects** • **🎯 Algorithm Implementations**
+
+*These projects represent hands-on learning experiences that shaped my problem-solving approach and technical foundation.*
 
 </div>
 
 ---
 
-## 🎓 Formación Académica
+## 🎓 Education & Certifications
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **Ingeniería en Sistemas**  
-*En curso*
+*In Progress*
 
-Avanzando en el programa con sólido rendimiento académico y enfoque en desarrollo de software.
+Currently advancing through the program with strong academic performance and focus on software development.
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
 **Tecnicatura Universitaria en Programación**  
-*Completada*
+*Completed*
 
-Todas las materias aprobadas, pendiente de prácticas profesionales para certificación final.
+All subjects approved, awaiting professional practices to complete final certification.
 
 </td>
-<td width="33%" align="center">
+<td width="25%" align="center">
 
-**Escuela Secundaria de Informática**  
-*Graduado*
+**Martín Zapata modalidad Informática**  
+*Graduated*
 
-Fundamentos sólidos en ciencias de la computación y programación.
+Strong foundation in computer science and programming fundamentals.
+
+</td>
+<td width="25%" align="center">
+
+**Play & Say Institute**  
+*English Certificate*
+
+Achieved B2 level proficiency in English language.
 
 </td>
 </tr>
@@ -175,7 +178,7 @@ Fundamentos sólidos en ciencias de la computación y programación.
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AgusMS7)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agustin.matias.sandoval@gmail.com)
 
-**Languages:** Español (Nativo) | English (B2)
+**Languages:** Español (Native) | English (B2)
 
 </div>
 
