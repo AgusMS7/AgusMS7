@@ -1,6 +1,6 @@
 <div align="center">
 
-# Agustín Sandoval
+# 🚀 Agustín Sandoval
 ### Full-Stack Developer & Systems Engineering Student
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&height=60&lines=Building+the+future+with+code;Always+learning%2C+always+growing;Great+men+grow+great" alt="Typing SVG" />
